@@ -2,6 +2,7 @@ Title: What Is the Most Difficult Linux Distribution to Install?
 Date: 2023-5-26 13:00
 Category: Distro Talk
 Summary: What do you think is the hardest Linux Distribution to install and use? Find out in this blog discussing this topic...
+Tags: Linux, Distro, Advanced
 
 When selecting a Linux Distro for a Beginner, you should go with the simplest option. However, veterans of the Linux Community are far more knowledgeable about this element of Linux. If you are unfamiliar with Linux. Linux is a kernel, and users can create an operating system on top of it. With its comparable appearance to Windows, Linux Mint is a popular choice for beginners. Now people like to overly-customize their OS/Distrobution and thats what Archlinux, Gentoo And LFS (Linux from scratch)
 

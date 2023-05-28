@@ -3,6 +3,7 @@ Date: 2023-5-27 6:09
 Category: Distro talk
 Tags: Beginner, Linux, Distro
 Conclusion: Linux has a wide range of distributions, each with its own set of capabilities and characteristics. Finding the proper distrib...
+Author: Vien Catigan
 
 Linux has a wide range of distributions, each with its own set of capabilities and characteristics. Finding the proper distribution can have a huge impact on a beginner's first encounter with Linux. In this post, we give a curated list of Linux distributions suitable for beginners, with user-friendly interfaces, rich documentation, and active community support. These distributions provide a solid foundation for your Linux adventure, whether you're new to Linux or looking for a smooth move from another operating system.
 
